@@ -1,0 +1,13 @@
+.detail-tab {
+    font-family: 'Alata', sans-serif;
+    font-size: 14px;
+    color: black;
+    /* margin-left: 20px; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.detail-tab img {
+    width: 30%;
+    /* margin-right: 20px; */
+}

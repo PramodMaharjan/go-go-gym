@@ -1,0 +1,30 @@
+.bmi {
+    font-family: 'Alata', sans-serif;
+    font-size: 14px;
+    color: black;
+}
+
+.bmi button {
+    font-family: 'Alata', sans-serif;
+    font-size: 14px;
+}
+
+.bmi form {
+    max-width: 200px
+}
+
+.ant-form-item-label,
+.ant-form-item-control {
+    font-family: 'Alata', sans-serif;
+}
+
+.ant-card-head-title {
+    font-family: 'Alata', sans-serif;
+
+}
+
+.custom-modal {
+    font-family: 'Alata', sans-serif;
+    text-align: center;
+    max-width: 25%;
+}

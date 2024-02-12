@@ -1,0 +1,204 @@
+{
+    "exercise": [
+        {
+            "id": "1",
+            "title": "Chest",
+            "imageUrl": "/images/bench-press.jpg",
+            "types": [
+                {
+                    "id": "1",
+                    "title": "Barbell Bench Press",
+                    "imageUrl": "/images/bench-press.jpg",
+                    "info": "Bench Press is the best exercise to increase the strength and size of your chest and build upper body muscle. It is the most popular exercise done at the gym."
+                },
+                {
+                    "id": "2",
+                    "title": "Dumbbell Flyes",
+                    "imageUrl": "/images/dumbbell-fly.jpg",
+                    "info": "Dumbbell Fly effectively isolates the pectorals allowing you to work them through a full range of motion using a relatively light weight. The light weight can still provide a good stimulus because you hold your hands far away from the body."
+                },
+                {
+                    "id": "3",
+                    "title": "Push-Ups",
+                    "imageUrl": "/images/push-ups.jpg",
+                    "info": "Push Ups build the chest anywhere, anytime. You can vary the position to load the chest or triceps more."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Shoulder",
+            "imageUrl": "/images/shoulder-press.jpg",
+            "types": [
+                {
+                    "id": "1",
+                    "title": "Overhead Shoulder Press",
+                    "imageUrl": "/images/shoulder-press.jpg",
+                    "info": "Shoulder Press is a fundamental movement for building strong shoulders and arms."
+                },
+                {
+                    "id": "2",
+                    "title": "Lateral Raises",
+                    "imageUrl": "/images/dumbbell-lateral-raise.jpg",
+                    "info": "Dumbbell Lateral Raise is a challenging exercise that isolates the side delts, requiring them to work hard while using relatively light weights."
+                },
+                {
+                    "id": "3",
+                    "title": "Face Pulls",
+                    "imageUrl": "/images/face-pull.jpg",
+                    "info": "Face pulls help to strengthen the muscles supporting the shoulder joint, including the rotator cuff."
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Tricep",
+            "imageUrl": "/images/tricep-rope-pushdown.jpg",
+            "types": [
+                {
+                    "id": "1",
+                    "title": "Tricep Dips",
+                    "imageUrl": "/images/dips.jpg",
+                    "info": "Dips are an excellent way of training the chest and triceps using your bodyweight. You can make the movement more chest or tricep heavy by varying the angle."
+                },
+                {
+                    "id": "2",
+                    "title": "Tricep Rope Pushdowns",
+                    "imageUrl": "/images/tricep-rope-pushdown.jpg",
+                    "info": "Tricep Rope Pushdown is a variation on Tricep Pushdown where you use a rope as a handle, increasing the difficulty and changing the wrist angle"
+                },
+                {
+                    "id": "3",
+                    "title": "Close-Grip Bench Press",
+                    "imageUrl": "/images/bench-press.jpg",
+                    "info": "The close-grip bench press is a popular exercise targeting the triceps and chest. The main difference between this exercise and the standard bench press is that the hands and elbows are placed closer together, which places more of an emphasis on the triceps."
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Back",
+            "imageUrl": "/images/bent-over-row.jpg",
+            "types": [
+                {
+                    "id": "1",
+                    "title": "Deadlifts",
+                    "imageUrl": "/images/deadlift.jpg",
+                    "info": "Deadlift is a fundamental hip hinge exercise to develop the ability to lift a heavy weight off the ground. Performing deadlifts increases whole body strength, confidence and can increase testosterone levels in the body."
+                },
+                {
+                    "id": "2",
+                    "title": "Pull-Ups",
+                    "imageUrl": "/images/pull-ups.jpg",
+                    "info": "Pulls Ups are excellent for developing a strong back and athletic physique. Getting to one pull up is a milestone in your strength training journey."
+                },
+                {
+                    "id": "3",
+                    "title": "Bent Over Rows",
+                    "imageUrl": "/images/bent-over-row.jpg",
+                    "info": "Bent Over Rows is the primary exercise for developing the upper back."
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "title": "Bicep",
+            "imageUrl": "/images/barbell-curl.jpg",
+            "types": [
+                {
+                    "id": "1",
+                    "title": "Barbell Bicep Curl",
+                    "imageUrl": "/images/barbell-curl.jpg",
+                    "info": "Barbell Curls build big arms, locking the wrists in position so that you put maximum weight and strain on the bicep contraction as you work through the full range of motion."
+                },
+                {
+                    "id": "2",
+                    "title": "Dumbbell Hammer Curl",
+                    "imageUrl": "/images/hammer-curl.jpg",
+                    "info": "Hammer curls are a dumbbell bicep variation that uses a neutral grip (palms facing each other) to target both heads of the bicep, as well as putting a larger emphasis on the forearm than bicep exercises that adopt a supinated grip."
+                },
+                {
+                    "id": "3",
+                    "title": "Concentration Curls",
+                    "imageUrl": "/images/dumbbell-concentration-curl.jpg",
+                    "info": "Perform concentration curls by sitting on a bench, resting the back of your upper arm against your inner thigh, and lifting a dumbbell. Squeeze your biceps at the top of the movement before lowering the dumbbell slowly."
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "title": "Quadriceps",
+            "imageUrl": "/images/squat.jpg",
+            "types": [
+                {
+                    "id": "1",
+                    "title": "Barbell Back Squats",
+                    "imageUrl": "/images/squat.jpg",
+                    "info": "The Squat is the King of Exercises. It develops your legs more completely than any other exercise and also requires a solid core."
+                },
+                {
+                    "id": "2",
+                    "title": "Leg Press",
+                    "imageUrl": "/images/sled-leg-press.jpg",
+                    "info": "Leg Press lets you use the full strength of your lower body to lift a huge amount of weight, and trigger muscle growth doing so."
+                },
+                {
+                    "id": "3",
+                    "title": "Lunges",
+                    "imageUrl": "/images/dumbbell-lunge.jpg",
+                    "info": "The dumbbell lunge is basically a giant step forward. Although this exercise can be done without weights, using dumbbells provides additional work for the upper leg and buttock muscles. This functional exercise is a great addition to any lower body strength routine as well as circuit training workouts."
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "title": "Hamstrings",
+            "imageUrl": "/images/lying-leg-curl.jpg",
+            "types": [
+                {
+                    "id": "1",
+                    "title": "Romanian Deadlift (RDL)",
+                    "imageUrl": "/images/romanian-deadlift.jpg",
+                    "info": "Romanian Deadlift focuses more on the posterior chain allowing you to develop the hamstrings/hips with lighter loads than conventional Deadlift. This makes it great for sports where you need to develop your posterior chain while avoiding injury."
+                },
+                {
+                    "id": "2",
+                    "title": "Lying Leg Curls",
+                    "imageUrl": "/images/lying-leg-curl.jpg",
+                    "info": "Lying Leg Curl works the hamstrings in more isolation than Seated Leg Curl as you are unable to move your body forward to help with the movement because you are lying face first on the machine."
+                },
+                {
+                    "id": "3",
+                    "title": "Seated Leg Curl",
+                    "imageUrl": "/images/seated-leg-curl.jpg",
+                    "info": "Leg Extension is the primary exercise for working the hamstrings in isolation. It is an excellent way to develop the size and strength of the hamstrings."
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "title": "Calf",
+            "imageUrl": "/images/seated-calf-raise.jpg",
+            "types": [
+                {
+                    "id": "1",
+                    "title": "Seated Calf Raises",
+                    "imageUrl": "/images/seated-calf-raise.jpg",
+                    "info": "Seated Calf Raise isolates your calf muscles by putting the weight above your knees, cutting out the rest of the body. This allows you to focus completely on the contraction in your calf."
+                },
+                {
+                    "id": "2",
+                    "title": "Standing Calf Raises",
+                    "imageUrl": "/images/machine-calf-raise.jpg",
+                    "info": "Standing Calf Raise allows you to fully exhaust your calf muscles using a significant amount of weight while leaving you in a safe position if you fail."
+                },
+                {
+                    "id": "3",
+                    "title": "Calf Press on the Leg Press Machine",
+                    "imageUrl": "/images/sled-press-calf-raise.jpg",
+                    "info": "Grasp handles to sides and extend hips and knees. Place toes and balls of feet on lower portion of platform with heels and arches extending off. Push sled by extending ankles as far as possible. Return by bending ankles until calves are stretched."
+                }
+            ]
+        }
+    ]
+}

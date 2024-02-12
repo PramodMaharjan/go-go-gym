@@ -1,0 +1,11 @@
+.myCustomAnchor a {
+    font-family: 'Alata', sans-serif;
+    font-size: 14px;
+    margin-left: 25px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+/* .myCustomAnchor a.active{
+    color: #1677ff;
+} */
